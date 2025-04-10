@@ -1,2 +1,2 @@
 # natas
-step by step nata walkthrough
+step by step natas walkthrough
